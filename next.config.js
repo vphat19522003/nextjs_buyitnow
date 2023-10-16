@@ -6,7 +6,7 @@ const nextConfig = {
   env: {
     API_URL: "http://localhost:3000",
     DB_URI:
-      "mongodb+srv://admin:<password>@buyitnow.niu6qf9.mongodb.net/?retryWrites=true&w=majority",
+      "mongodb+srv://admin:admin@buyitnow.niu6qf9.mongodb.net/?retryWrites=true&w=majority",
   },
   images: {
     domains: ["res.cloudinary.com"],

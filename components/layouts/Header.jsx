@@ -45,7 +45,7 @@ const Header = () => {
                 />
                 <div className="space-y-1 font-medium">
                   <p>
-                    Ghulam
+                    User
                     <time className="block text-sm text-gray-500 dark:text-gray-400">
                       test@gmail.com
                     </time>
